@@ -1,3 +1,6 @@
 [submodule "CVND_P1_Facial_Keypoints"]
 	path = CVND_P1_Facial_Keypoints
 	url = git@github.com:carlosgalvezp/CVND_P1_Facial_Keypoints.git
+[submodule "CVND_P2_Image_Captioning"]
+	path = CVND_P2_Image_Captioning
+	url = git@github.com:carlosgalvezp/CVND_P2_Image_Captioning.git
