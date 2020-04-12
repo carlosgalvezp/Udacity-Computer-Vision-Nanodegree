@@ -4,3 +4,6 @@
 [submodule "CVND_P2_Image_Captioning"]
 	path = CVND_P2_Image_Captioning
 	url = git@github.com:carlosgalvezp/CVND_P2_Image_Captioning.git
+[submodule "CVND_P3_Implement_SLAM"]
+	path = CVND_P3_Implement_SLAM
+	url = git@github.com:carlosgalvezp/CVND_P3_Implement_SLAM.git
